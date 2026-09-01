@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import Portfolio from "../models/Portfolio.js";
 import fetch from "node-fetch";
 import dotenv from "dotenv";
@@ -102,4 +101,4 @@ export const deployPortfolio = async (req, res) => {
 
 //   }
 // };
->>>>>>> 439d731f31ec0cfc365a3cdf5195d641754da135
+
